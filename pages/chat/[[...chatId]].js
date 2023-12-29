@@ -119,7 +119,7 @@ export default function ChatPage({ chatId, title, messages = [] }) {
                     className="mb-2 text-6xl text-emerald-200"
                   />
                   <h1 className="mt-2 text-4xl font-bold text-white">
-                    Ask me a question !
+                    Ask Chatty Zvitambo a question !
                   </h1>
                 </div>
               </div>
